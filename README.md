@@ -1,4 +1,4 @@
-ï»¿# ê°Å¸Å½Â¬ Prompt Director ê¢â¬â Imagens e Cinema com IA
+ï»¿# ê°Å¸Å½Â¬ Prompt Director ê¢â¬â Imagens e CARCKHÉ com IA
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,7 +8,7 @@
 
 Curso completo de prompts visuais para geradores de imagem e vêÂ­deo: Midjourney v7, Sora 2, Veo 3, Runway Gen-4, Flux 1.1 Pro, Flux Kontext, Nano Banana, Seedance 2, Kling 2.5, Ideogram 3 e mais.
 
-**Site:** https://inematds.github.io/promptfilmes/
+**Site:** https://linnoff88-dev.github.io/arckhe-/
 
 ## Estrutura
 
@@ -30,7 +30,7 @@ python3 -m http.server 8000
 
 ## Um curso
 
-[INEMA.CLUB](https://inema.club) êÂ· 2026 êÂ· Estado da arte maio/2026
+[ARCKHÉ AI](https://ARCKHÉ AI) êÂ· 2026 êÂ· Estado da arte maio/2026
 
 ---
 
